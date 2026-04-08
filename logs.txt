@@ -1,0 +1,11 @@
+From: support@paypaI.com
+Subject: Urgent! Verify your account
+Link: http://paypal-login-security.xyz
+
+From: security@bank.com
+Subject: Login Alert
+Link: http://secure-bank-login.com
+
+From: admin@amazon-secure.net
+Subject: Suspicious Activity
+Link: http://amazon-verification-alert.xyz
